@@ -20,8 +20,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'smile', // Usually your GitHub org/user name.
-  projectName: 'smile-learning', // Usually your repo name.
+  organizationName: 'smile-learning', // Usually your GitHub org/user name.
+  projectName: 'smile-learning.github.io', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
