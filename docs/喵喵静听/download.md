@@ -3,4 +3,5 @@
 
 ## 下载
 
-* iPhone [安装](tms-services://?action=download-manifest&url=https://smile-learning.github.io/download/smiao.plist)
+* iPhone 
+<a href="itms-services://?action=download-manifest&url=https://smile-learning.github.io/download/smiao.plist">安装</a>
