@@ -3,4 +3,4 @@
 
 ## 下载
 
-* iPhone (安装)(/download/smile.ipa)
+* iPhone [安装](/download/smile.ipa)
